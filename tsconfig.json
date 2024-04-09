@@ -1,0 +1,4 @@
+{
+  "extends": ["@joshunrau/tsconfig"],
+  "include": ["src/*.js"]
+}
